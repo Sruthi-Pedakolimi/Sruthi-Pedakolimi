@@ -81,19 +81,6 @@ I'm a passionate **Application Developer** with **6 years of startup experience*
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sruthi-pedakolimi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Sruthi-Pedakolimi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to interesting conversations, collaborations, and opportunities. Whether you want to discuss AI engineering, software development, or just say hi — feel free to reach out!
