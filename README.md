@@ -12,7 +12,7 @@
 <!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Application+Developer+%7C+AI+Engineer;6+Years+of+Software+Development+Experience;Building+Intelligent+AI+Workflows+%26+Agents;FastAPI+%7C+React+%7C+LangGraph+%7C+LangChain;Turning+Ideas+into+Production-Ready+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Application+Developer+%7C+Aspiring+AI+Engineer;6+Years+of+Software+Development+Experience;Building+Intelligent+AI+Workflows+%26+Agents;FastAPI+%7C+React+%7C+LangGraph+%7C+LangChain;Turning+Ideas+into+Production-Ready+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
