@@ -20,12 +20,12 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a passionate **Application Developer** with **6 years of experience** bridging backend engineering, frontend development, and cutting-edge AI. I love building intelligent, scalable systems — from REST APIs and real-time WebSocket apps to full-blown AI agents and multi-step workflows.
+I'm a passionate **Application Developer** with **6 years of startup experience**, where I wore many hats — from **Software Developer** and **Business Analyst** to **Platform Manager**. That journey gave me a rare blend of technical depth and business acumen. Now I'm channeling that experience into building modern **Software and AI-powered applications**.
 
 - 🚀 Currently building AI-powered applications using **LangGraph**, **LangChain**, **DSPy**, and **MCP**
-- 🎓 Transitioning into **AI Engineering** — combining my software roots with the future of intelligent systems
+- 🎯 Currently focused on the **Software & AI** side — building intelligent, production-ready applications
 - 📝 I share knowledge on **YouTube**, **Medium**, and **Instagram** — tutorials, dev tips & AI deep dives
-- 🔭 Former **Software Developer & Business Analyst** — I speak both tech and business fluently
+- 🎩 Spent 6 years at a startup wearing many hats — **Software Developer**, **Business Analyst** & **Platform Manager**
 - 💡 Fun fact: I can debug code, draft a BRD, and explain LLMs — sometimes all in the same day ☕
 - 🌏 Based in the US | Open to exciting **remote opportunities**
 
