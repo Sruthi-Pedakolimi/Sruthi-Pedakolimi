@@ -94,27 +94,6 @@ I'm a passionate **Application Developer** with **6 years of startup experience*
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sruthi-Pedakolimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sruthi-Pedakolimi&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthi-Pedakolimi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sruthi-Pedakolimi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to interesting conversations, collaborations, and opportunities. Whether you want to discuss AI engineering, software development, or just say hi — feel free to reach out!
